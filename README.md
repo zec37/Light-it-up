@@ -1,5 +1,19 @@
 # Light-it-up
-Simple 2D game by Construct 2
+Simple 2D game by Construct 2<br>
+
+How to play: open index.html<br>
+
+Core Gameplay: When player starts, the whole scene will be completely dark. Any time player collects a star, the scene will light up for 2 sec. Player score 1 point each time he collects a star.<br>
+
+Gameplay Objects:<br>
+Star: Can light up scene and score point<br>
+Black Barrier: Block player's avater. When avater hits it, a 'Stuck' mark shows up to indicate.<br>
+Heart: Appear every 5 sec. Add time limit to 5 sec if player collects one.<br>
+Portal: Two-way portal that help player cross barrier instead of a detour.<br>
+
+Suppliment Trick:<br>
+1. Player can press 'L' to force lighting up for 2 sec, with maximum 3 times usage in a game.<br>
+2. Avatar appear in the opposite direction of the scene if it goes cross the boundary.<br>
 
 打开方式：使用Firefox浏览器打开index.html文件可以开始游戏<br>
 
