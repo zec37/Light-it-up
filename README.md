@@ -13,7 +13,7 @@ Portal: Two-way portal that help player cross barrier instead of a detour.<br>
 
 Suppliment Trick:<br>
 1. Player can press 'L' to force lighting up for 2 sec, with maximum 3 times usage in a game.<br>
-2. Avatar appear in the opposite direction of the scene if it goes cross the boundary.<br>
+2. Avatar appear on the opposite part across the scene if it goes beyond the boundary.<br>
 
 打开方式：使用Firefox浏览器打开index.html文件可以开始游戏<br>
 
